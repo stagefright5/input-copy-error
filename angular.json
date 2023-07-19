@@ -44,7 +44,7 @@
             "styles": [
               "src/global_styles.css"
             ],
-            "tsConfig": "src/tsconfig.app.json"
+            "tsConfig": "src/tsconfig.json"
           }
         },
         "extract-i18n": {
@@ -60,7 +60,7 @@
               "**/node_modules/**"
             ],
             "tsConfig": [
-              "src/tsconfig.app.json",
+              "src/tsconfig.json",
               "src/tsconfig.spec.json"
             ]
           }
