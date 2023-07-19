@@ -18,7 +18,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
     {{task.value[j].v}}
   </div>
 </div>
-<div>Below template has bug</div>
+<div>------Below template has bug------</div>
 <div *ngFor="let task of tasks_plain">
   <br />
   <div *ngFor="let value of task.value; let j = index;">
