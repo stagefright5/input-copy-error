@@ -1,3 +1,4 @@
+import 'zone.js/dist/zone';
 import { CommonModule, NgFor } from '@angular/common';
 import { Component } from '@angular/core';
 import { bootstrapApplication } from '@angular/platform-browser';
